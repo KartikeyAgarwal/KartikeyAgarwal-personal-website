@@ -37,21 +37,21 @@
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
 			"name": "EisenList",
-	//		"link": "https://github.com/adityaketkar/eisenlist"
-	//	},
-	//	{
-	//		"name": "DelOr",
-	//		"link": "https://bitsdelor.wixsite.com/delor"
-	//	},
-	//	{
-	//		"name": "Alexa Music Companion",
-	//		"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-	//	},
-	//	{
-	//		"name": "Gatsby Personal Webpage",
-	//		"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
-	//	}
-	]//,
+			"link": "https://github.com/adityaketkar/eisenlist"
+		},
+		{
+			"name": "DelOr",
+			"link": "https://bitsdelor.wixsite.com/delor"
+		},
+		{
+			"name": "Alexa Music Companion",
+			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+		},
+		{
+			"name": "Gatsby Personal Webpage",
+			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+		}
+	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
 	//"CV": "https://www.visualcv.com/aditya-ketkar/",
