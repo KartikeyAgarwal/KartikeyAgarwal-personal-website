@@ -19,24 +19,24 @@
 	"WorkContent": [
 		"I am currently undergraduate at IIT Ropar majoring in Chemical Engineering."
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
-	//"InternshipsStartLine": "Previously, I have interned with :",
-	//"InternShips": [{
-	//		"name": "Amazon India",
-	//		"link": "#"
-	//	},
-	//	{
-	//		"name": "North-Eastern Space Application Center (ISRO)",
-	//		"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-	//	},
-	//	{
-	//		"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-	//		"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
-	//	}
-	//],
-	//"ProjectsStartLine": "Some of the side projects I did can be found here :",
-	//"Projects": [{
-	//		"name": "EisenList",
+	/*"WorkImage": "https://i.imgur.com/BHt1YKg.png",
+	"InternshipsStartLine": "Previously, I have interned with :",
+	"InternShips": [{
+			"name": "Amazon India",
+			"link": "#"
+		},
+		{
+			"name": "North-Eastern Space Application Center (ISRO)",
+			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+		},
+		{
+			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
+			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+		}
+	],
+	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+	"Projects": [{
+			"name": "EisenList",
 	//		"link": "https://github.com/adityaketkar/eisenlist"
 	//	},
 	//	{
@@ -55,7 +55,7 @@
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
 	//"CV": "https://www.visualcv.com/aditya-ketkar/",
-	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing", */
 
 	"emailid": "2018chb1048@iitrpr.ac.in",
 	"linkedin": "www.linkedin.com/in/kumar-kartikey-agarwal-6a71151a1",
